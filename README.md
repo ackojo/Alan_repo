@@ -1,2 +1,2 @@
 # Welcome!
-it's lit
+Learning how to build a website w/ HTML
